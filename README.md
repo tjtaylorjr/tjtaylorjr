@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/62177226/107587892-9dd0ab80-6bd0-11eb-8271-82220fab2844.png" alt="Docker" align="right" width="50px"/>
   <img src="https://user-images.githubusercontent.com/62177226/107587959-c2c51e80-6bd0-11eb-8d95-8a4a94dd089d.png" alt="CSS" align="right" width="50px"/>
 <div>
-My name is TJ Taylor and I have recently made the jump to become a full time software developer.<br>
-I love to make things with code and I'm currently looking to collaborate on open source projects!<br>
+I like to collaborate on open source projects!<br>
 <div markdown="1">
   <img src="https://user-images.githubusercontent.com/62177226/107587914-a923d700-6bd0-11eb-8159-0d85ea5d50e4.png" alt="PostgreSQL" align="right" width="50px"/>
   <img src="https://user-images.githubusercontent.com/62177226/107587897-a0330580-6bd0-11eb-9b3e-7d0d5cfe4faf.png" alt="NodeJS" align="right" width="50px"/>
